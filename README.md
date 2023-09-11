@@ -5,7 +5,7 @@
 <br />
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Next.js, Vue.js, Nuxt.js React Native (+ Solito), Flutter, Nodejs, PHP Laravel, Postgres, MySQL**.
+- 🔭 I’m currently working on **React, Next.js, Vue.js, Nuxt.js, React Native (+ Solito), Flutter, Nodejs, PHP Laravel, Postgres, MySQL**.
 
 - 🌱 I’m currently learning **to put together multiple stacks for scalable applications**.
 
